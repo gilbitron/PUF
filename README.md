@@ -28,3 +28,16 @@ PUF is released under the [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html).
 Some of the functions that will appear in PUF will be written by other developers or found in other applications (e.g. WordPress, CodeIgniter etc).
 This is cool. Just make sure the license that their code is released under is compatible with GPL v2, and make sure to give credit where credit is due
 in the function documentation.
+
+##Example Usage
+
+    <?php
+
+    require_once 'puf/puf.include_all.php';
+
+    $puf_format = new PUF\Format();
+
+    echo $puf_format->size_format(1024);
+    // Output: 1kB
+
+    ?>
