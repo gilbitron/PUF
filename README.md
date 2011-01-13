@@ -12,10 +12,17 @@ To use PUF you will need the following:
 
 Yes that's all!
 
-##Contribute
+##Please Contribute
 
 The only way this project will become successful and useful is if all of you PHP developers contribute to PUF. Got any favorite snippets
 that aren't in PUF already? Then throw them in and include your name and website in the @author tag in the documentation. The more you contribute
 to PUF the more everyone will benefit.
 
 So don't be afraid to give PUF a fork and contribute your own functions!
+
+##Licensing
+PUF is released under the [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html).
+
+Some of the functions that will appear in PUF will be written by other developers or found in other applications (e.g. WordPress, CodeIgniter etc).
+This is cool. Just make sure the license that their code is released under is compatible with GPL v2, and make sure to give credit where credit is due
+in the function documentation.

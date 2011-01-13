@@ -7,7 +7,7 @@
  * @package		PUF
  * @version		1.0
  * @author		Gilbert Pellegrom
- * @license		MIT License
+ * @license		GPL v2
  * @link		http://puf.dev7studios.com
  */
  
