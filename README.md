@@ -1,6 +1,6 @@
-#PUF
+### This repo is no longer maintained. If you would like to take over ownership please [get in touch](mailto:gilbert@pellegrom.me).
 
-Website: [http://puf.dev7studios.com](http://puf.dev7studios.com/)
+#PUF
 
 PUF (PHP Utility Framework) provides PHP developers with an assortment of utility functions that are commonly used in web applications. 
 Written in PHP 5, PUF aims to become the "go to" framework for all of those functions that you commonly use in apps but can never find
